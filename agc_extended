@@ -1,0 +1,25 @@
+{
+ "info": {
+  "url_png_icon_64x64": "https://cardano24.com/mdlogos.png",
+  "url_png_logo": "https://cardano24.com/mdlogob.png",
+  "social": {
+   "twitter_handle": "HolgerCardano24",
+   "telegram_handle": "Cardano24",
+   "youtube_handle": "channel/UCLGkQfzTZWtscj2XTCdtoZQ",
+   "discord_handle": "b3WS4pY"
+  },
+  "company": {},
+  "about": {
+   "me": "Over 25+ years IT-Admin/Dev. Projects for German Federal Banks, Warner Bros. etc."
+  }
+ },
+ "telegram-admin-handle": [
+  "Holger_Cardano24"
+ ],
+ "my-pool-ids": [
+  "be6d07b366b26dd577682e0e499c0d81988d8b3f49b52b853691eeba"
+ ],
+ "when-satured-then-recommend": [
+  "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed"
+ ]
+}
